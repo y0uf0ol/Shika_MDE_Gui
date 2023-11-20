@@ -1,0 +1,5 @@
+protobuf==4.24.3
+PyAFF==0.1
+msgraph-core==0.2.2
+azure-identity==1.15.0b1
+pandas==2.1.1
